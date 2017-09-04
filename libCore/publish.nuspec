@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$id$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://ezricloud.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>See projectUrl</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>Keona Library</tags>
+  </metadata>
+  <files>
+    <file src="bin\$configuration$\lib*.dll" target="lib" />
+  </files>
+</package>
